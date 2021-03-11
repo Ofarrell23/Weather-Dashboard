@@ -1,3 +1,11 @@
+.jumbotron {
+    text-align: center;
+    background-color:rgba(48, 51, 53, 0.76);
+    color: rgb(255, 255, 255);
+    border-radius: 0;
+    border-bottom: 3px solid rgb(88, 86, 86);
+  }
+
 b.search-column{
     background-color:	#D3D3D3;
 }
